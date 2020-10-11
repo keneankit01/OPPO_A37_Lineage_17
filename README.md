@@ -28,3 +28,4 @@ Front Camera | 5 MP, f/2.4, 1/4"
 
 ![OPPO A37](https://fdn2.gsmarena.com/vv/pics/oppo/oppo-a37-1.jpg)
 # OPPO_A37_Lineage_17
+# OPPO_A37_Lineage_17
