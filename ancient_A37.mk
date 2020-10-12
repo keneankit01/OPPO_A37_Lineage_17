@@ -35,3 +35,12 @@ BUILD_FINGERPRINT="OPPO/A37fw/A37f:5.1.1/LMY47V/1519717163:user/release-keys"
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="msm8916_64-user 5.1.1 LMY47V eng.root.20190711.032745 release-keys"
+  
+  
+ # Google Apps
+
+TARGET_GAPPS_ARCH := arm64                                         IS_PHONE := true
+
+ANCIENT_NOGAPPS=true
+
+TARGET_BOOT_ANIMATION_RES := 720
