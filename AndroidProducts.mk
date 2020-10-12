@@ -15,8 +15,13 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_A37.mk
+    $(LOCAL_DIR)/ancient_A37.mk
 
 COMMON_LUNCH_CHOICES := \
     lineage_A37-user \
     lineage_A37-userdebug \
-    lineage_A37-eng
+    lineage_A37-eng \
+    ancient_A37-user \
+    ancient_A37-userdebug \
+    ancient_A37-eng
+
