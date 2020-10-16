@@ -34,3 +34,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
     rild.libpath=/system/vendor/lib/libril-qc-qmi-1.so \
     ril.subscription.types=RUIM \
     ro.telephony.default_network=9,9
+    
+  # WiFi
+wifi.interface=wlan0
